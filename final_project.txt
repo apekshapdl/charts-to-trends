@@ -1,0 +1,44 @@
+From Charts to Trends: How has song popularity changed over Time?
+
+How are social media trends related to Billboard chart perfprmance, and can they help explain the comeback of oder songs?
+
+1. Historical context:
+Billboard datasets to answer:
+    - How long songs typically stay in the chart
+    - how often old songs re enter
+    - how the age of charting songs has changed
+    - try to compare the songs from 1993-2008 vs 2009-2019 vs 2020-2026
+
+
+2. Main analysis:
+May be choose a timeframe from 2020-2026 or just 2024-2025 whatever datasets for tiktok/social media trends are available
+and combine Billboard chart position data with social-media trend data
+    - do songs with increasing social media popularity also improve their position in Billboard or spotify Charts?
+    - how quickly does chart performance change after a trend starts?
+    - are there songs that became popular on social media and entered/re-entered the Billboard/Spotify chart?
+    - are older songs particularly likely to experience this?
+
+3. Old-song comeback analysis
+from the chosen time period, identify songs that are not new releases or the ones that never made it to top 100 
+for example:
+    a song was released in 1998 - suddenly becomes popular in 2025 in tiktok or whatever - enters the billboard/spotify charts 
+Then compare:
+    release date, social media trend and billboard movement
+
+
+
+
+Chart history
+1958–2026
+Nearly 68 years
+
+Chart dates
+3,558
+Weekly chart records
+
+Average entries per date
+99.99
+
+Ranking range
+1–100
+All 100 ranks represented
