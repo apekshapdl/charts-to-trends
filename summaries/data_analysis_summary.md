@@ -17,6 +17,8 @@ This summary records the first matching and integration work for the TikTok and 
 - The weekly summary keeps each TikTok song ID’s best rank that week and the number of days it appeared in TikTok’s Top 100.
 - In complete weeks, the integrated table contains 1,859 matched TikTok song-weeks. Of these, 152 also appear on Billboard in the same week. This is an exploratory overlap count, not evidence that TikTok caused a chart change.
 
-### Limitations and next step
+### Limitations and current status
 
-Exact text matching is conservative and can miss songs when artist credits differ. Title-only matches are not treated as confirmed because unrelated songs can share a title. The TikTok dataset covers a much shorter period than Billboard and has incomplete weekly coverage. The next project stage is historical analysis of Billboard chart trends and song returns.
+Exact text matching is conservative and can miss songs when artist credits differ. Title-only matches are not treated as confirmed because unrelated songs can share a title. The TikTok dataset covers a much shorter period than Billboard and has incomplete weekly coverage.
+
+The first historical Billboard analysis is documented in `notebooks/04_historical_trends.ipynb` and `summaries/historical_trends_summary.md`. The current project phase is the deeper TikTok and Billboard comparison; the same-week overlap count above is preliminary and does not measure whether one chart's rank changes alongside the other.
