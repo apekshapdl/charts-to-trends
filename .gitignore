@@ -7,6 +7,4 @@ __pycache__/
 # Jupyter temporary files
 .ipynb_checkpoints/
 
-# Raw and cleaned datasets (keep data out of Git for now)
-data/raw/
-data/cleaned/
+
